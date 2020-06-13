@@ -9,12 +9,13 @@ It is created entirely using cmd!by one 12 year old!
 2. reset your internet setting without reboot.
 3.Completely open source
 4.Have some lore.
-5.Frequent updates.[updated every 2 weeks]
+5.Frequent updates.
 6.Easter eggs.
+
 
 By The time you read this,There is 8 fake viruses.But,More viruses will be added later on.
 
 [Notes]
 Expect some problem with the code.
 THIS IS A BETA
-All .bat file is detected as a viruses
+All .bat file is detected as a viruses.
