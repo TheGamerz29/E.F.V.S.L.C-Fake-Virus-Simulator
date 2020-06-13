@@ -23,4 +23,4 @@ Some Easter eggs,
 # By The time you read this,There is 8 fake viruses.But,More Fake Viruses Will be Added Later On.
 # All .bat file is detected as a viruses.
 # There might be some problem with the code
-# All .bat file is detected as a viruses.
+# All .bat file is detected as a viruses.However,It is completely safe.
