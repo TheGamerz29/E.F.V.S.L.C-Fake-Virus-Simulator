@@ -18,9 +18,10 @@ Frequent updates,Updated every 2 weeks
 # 6.
 Some Easter eggs,
 
+# [Updates]
+By The time you read this,There is 8 fake viruses.But,More Fake Viruses Will be Added Later On.
+
 # [Notes]
 # THIS IS A BETA
-# By The time you read this,There is 8 fake viruses.But,More Fake Viruses Will be Added Later On.
-# All .bat file is detected as a viruses.
-# There might be some problem with the code
 # All .bat file is detected as a viruses.However,It is completely safe.
+# There might be some problem with the code
