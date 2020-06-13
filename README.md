@@ -15,5 +15,6 @@ It is created entirely using cmd!by one 12 year old!
 By The time you read this,There is 8 fake viruses.But,More viruses will be added later on.
 
 [Notes]
-Expect some problem with the code.THIS IS A BETA
+Expect some problem with the code.
+THIS IS A BETA
 All .bat file is detected as a viruses
