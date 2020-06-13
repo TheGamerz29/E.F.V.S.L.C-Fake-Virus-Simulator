@@ -5,13 +5,12 @@ This fake virus simulator is highly realistic that your friend will belive it.
 It is created entirely using cmd!by one 12 year old!
 
  This Fake Virus Launcher Can...
-1.Simulates 8 Hyper Realistic Fake viruses.
-2. reset your internet setting without reboot.
-3.Completely open source
-4.Have some lore.
-5.Frequent updates.
-6.Easter eggs.
-
+ .Simulates 8 Hyper Realistic Fake viruses.,
+ .reset your internet setting without reboot.,
+ .Completely open source.,
+.Have some lore.,
+.Frequent updates.,
+.Easter eggs.,
 
 By The time you read this,There is 8 fake viruses.But,More viruses will be added later on.
 
