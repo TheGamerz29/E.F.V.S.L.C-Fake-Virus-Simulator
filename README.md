@@ -19,7 +19,7 @@ Frequent updates,Updated every 2 weeks
 Some Easter eggs,
 
 # [Updates]
-By The time you read this,There is 8 fake viruses.But,More Fake Viruses Will be Added Later On.
+By The time you read this,There is 18 fake viruses.
 
 # [Notes]
 # THIS IS A BETA
