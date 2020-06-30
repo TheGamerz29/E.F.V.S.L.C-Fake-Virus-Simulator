@@ -6,7 +6,7 @@ It is created entirely using cmd!by one 12 year old!
 
  # This Fake Virus Launcher Can...
 # 1.
-Simulates 8 Hyper Realistic Fake viruses,
+Simulates 18 Hyper Realistic Fake viruses,
 # 2.
 reset your internet setting without reboot,
 # 3.
