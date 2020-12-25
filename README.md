@@ -21,7 +21,13 @@ Some Easter eggs,
 # [Updates]
 By The time you read this,There is 18 fake viruses.
 
+# Major revamp incoming!
+E.F.V.S.L.C will receive major revamp to pretty-much everything!
+New main menu, more up-to-date design! And... a new bsod!
+Of-course, new fake viruses and feature too...
+This revamp will also updates the storyline in the app.
+It have no release date yet.
+
 # [Notes]
-# THIS IS A BETA
 # All .bat file is detected as a viruses.However,It is completely safe.
 # There might be some problem with the code
