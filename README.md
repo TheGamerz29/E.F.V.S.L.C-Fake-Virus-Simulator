@@ -20,6 +20,12 @@ Frequent updates,Updated every 2 weeks
 # 6.
 Some Easter eggs,
 
+# Screenshots
+### BSOD
+![E.F.V.S.L.Csc](https://content.instructables.com/ORIG/FCB/6KVW/KBRXY7RA/FCB6KVWKBRXY7RA.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=772b82518e6e0887f35b90dd7a58ac55)<br>
+### Main UI
+![UI](https://content.instructables.com/ORIG/FS0/ASHI/KBRXY7S0/FS0ASHIKBRXY7S0.png?auto=webp&frame=1&width=1024&height=1024&fit=bounds&md=2210846bee26f3ab022d4917c8f5e869)
+
 # [Updates]
 By The time you read this,There is 18 fake viruses.
 
