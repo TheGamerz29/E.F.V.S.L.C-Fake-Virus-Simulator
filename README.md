@@ -28,6 +28,10 @@ Of-course, new fake viruses and feature too...
 This revamp will also updates the storyline in the app.
 It have no release date yet.
 
+<a href="https://github.com/TheGamerz29/E.F.V.S.L.C-Fake-Virus-Simulator/releases/download/V1.0X/E.F.V.S.F.C.PROJECT.-.exe" download="#efvslc">
+  <img src="https://github.com/TheGamerz29/thegamerz29.github.io/raw/images/downloadbutton_30.png" alt="E.F.V.S.L.C" width="251" height="74">
+</a>
+
 # [Notes]
 # All .bat file is detected as a viruses.However,It is completely safe.
 # There might be some problem with the code
